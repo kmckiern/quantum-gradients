@@ -13,6 +13,4 @@ Quantum Algorithm for Molecular Properties and Geometry Optimization, Ivan Kassa
 
 
 ## code
-github.com/rigetticomputing/grove
-
 github.com/kmckiern/grove/blob/master/grove/alpha/jordan_gradient
