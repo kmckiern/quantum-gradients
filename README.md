@@ -1,5 +1,5 @@
 # quantum-gradients
-slides for this talk: https://youtu.be/7Sr1_wjRm_E
+Talk [video](https://youtu.be/7Sr1_wjRm_E) and [code](https://github.com/kmckiern/quantum-gradients/blob/master/README.md).
 
 ## references
 Fast Quantum Algorithm for Numerical Gradient Estimation, Stephen P. Jordan
@@ -10,7 +10,3 @@ Fast Quantum Algorithm for Numerical Gradient Estimation, Stephen P. Jordan
 Quantum Algorithm for Molecular Properties and Geometry Optimization, Ivan Kassal and Alán Aspuru-Guzik
 
 10.1063/1.3266959 
-
-
-## code
-github.com/kmckiern/grove/blob/master/grove/alpha/jordan_gradient
